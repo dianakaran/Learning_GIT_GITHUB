@@ -1,4 +1,4 @@
-# Learning_Git_Github  for Biologists
+# Learning_Git_Github  for Biologists.
 
 Git is a tool that track changs on your code over time while Github is a website that hosts git repository.
 
